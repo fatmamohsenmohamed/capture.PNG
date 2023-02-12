@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<head>
+    <title>the food of the poor</title>
+</head>
+<body> 
+<h1>koshary</h1>
+<div style="width: 225px;height:225px">
+    <img src="./download.jfif" style="cursor: pointer; " width="225px" height="225px"/>
+</div>
+<h2> i like koshary so much and i want to tell you about it's ingredients <br> it contains: </h2>
+<h3>rice<br>pasta<br>onions<br>tomato sauce<br>lentils</h3>
+
+</body>
